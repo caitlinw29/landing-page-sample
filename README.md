@@ -1,3 +1,5 @@
-# mini-project-1
+# Landing Page Sample
 
-A mini-project creating a basic website.
+* Basic landing page with a contact form. First mini-project from GA Tech Bootcamp.
+
+* See page at https://caitlinw29.github.io/landing-page-sample/
