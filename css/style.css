@@ -15,7 +15,7 @@ body {
     background-color: #c6f5e9;
     position: relative;
     font-size: 18px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
 h1,
@@ -31,6 +31,10 @@ li {
     display: inline;
     padding: 0px 20px;
     text-decoration: none;
+}
+
+a:hover {
+    color: darkgreen;
 }
   
 a {
